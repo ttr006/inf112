@@ -5,7 +5,10 @@
     <groupId>inf112</groupId>
     <artifactId>tddDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>untitled</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>RomanNumeralConverter</name>
     <url>http://maven.apache.org</url>
